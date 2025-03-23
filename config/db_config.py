@@ -16,7 +16,7 @@ RELATION_DB_PWD = os.getenv("RELATION_DB_PWD", "Nkuwiki0!")
 RELATION_DB_USER = os.getenv("RELATION_DB_USER", "nkuwiki")
 RELATION_DB_HOST = os.getenv("RELATION_DB_HOST", "113.44.175.112")
 RELATION_DB_PORT = os.getenv("RELATION_DB_PORT", 3306)
-RELATION_DB_NAME = os.getenv("RELATION_DB_NAME", "mysql")
+RELATION_DB_NAME = os.getenv("RELATION_DB_NAME", "xhs")
 
 
 # redis config

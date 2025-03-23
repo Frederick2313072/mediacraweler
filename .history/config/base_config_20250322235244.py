@@ -58,10 +58,10 @@ START_PAGE = 1
 CRAWLER_MAX_NOTES_COUNT = 1000
 
 # 并发爬虫数量控制
-MAX_CONCURRENCY_NUM = 1
+MAX_CONCURRENCY_NUM = 5
 
 # 是否开启爬图片模式, 默认不开启爬图片
-ENABLE_GET_IMAGES = True
+ENABLE_GET_IMAGES = False
 
 # 是否开启爬评论模式, 默认开启爬评论
 ENABLE_GET_COMMENTS = True
